@@ -6,7 +6,6 @@ I am a Computer Science Student, Currently Residing in Bangladesh. Exploring The
 
 Skills: Operating Systems / Problem-Solving / Python / Java / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
