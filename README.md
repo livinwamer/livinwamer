@@ -1,16 +1,11 @@
-(https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-1/476230991_2130612360729045_4200095291465183874_n.jpg?stp=c420.0.1208.1208a_dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHu8-rGEhT5lExN4rF9fTPRoFOTMrK9Z7ygU5Mysr1nvEIQDiqOnzmw0puN20dWolWmk9vqOVgq8nOnWxCKPEdI&_nc_ohc=NQohy49hlyUQ7kNvwEHFlO2&_nc_oc=Adnypek-_vcyjEtJDWmtw6raFV7tvBJADWEybL-PpAbxdOX0i_eMLakLmsuuJWAx728&_nc_zt=24&_nc_ht=scontent.fdac15-1.fna&_nc_gid=jeprwwC-9Q-UbNGsQhE6ig&oh=00_AfbLt0fmEZl3OWqy9LkEHL8h2-mYj--wHpmpwJEaIQNtgg&oe=68D21B6E)
-### Greetings!
+![](https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/481776704_2149968002126814_4380542625903598248_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGFPdWp38WhJrYVL_VSCfNvTk_WOx-HerhOT9Y7H4d6uGsy9hdJANo_0bclyVuroQF_MXDoj2wC9-clQq04UsE_&_nc_ohc=UPWSnogDzLQQ7kNvwEe4rzP&_nc_oc=Adn67_tUyX37rC6W61zlVRNYaYb0wgGwIp5FuaRWXHOMerSSzo9rNwwkZl5uTh2GyPY&_nc_zt=23&_nc_ht=scontent.fdac15-1.fna&_nc_gid=jeprwwC-9Q-UbNGsQhE6ig&oh=00_Afao0bjEZwvV3tE9dpOqshttSFaPC_wmTsLKeXJY-xfIkw&oe=68D21374)
+### Hi there 👋, Greetings!
 
 I am a Computer Science Student, Currently Residing in Bangladesh. Exploring The Awesome World of Computers.
 
 Skills: OPERATING SYSTEMS / PROBLEM-SOLVING / PYTHON / JAVA / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/livinwamer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/livinwamer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/livinwamer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/chocostoic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](bio.link/livinwamer)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livinwamer)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=livinwamer&show_icons=true)  
 
