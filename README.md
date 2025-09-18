@@ -4,7 +4,7 @@
 
 I am a Computer Science Student, Currently Residing in Bangladesh. Exploring The Awesome World of Computers.
 
-Skills: Operating Systems / Problem-Solving / Python / Java / HTML / CSS
+Skills: OPERATING SYSTEMS / PROBLEM-SOLVING / PYTHON / JAVA / HTML / CSS
 
 
 
