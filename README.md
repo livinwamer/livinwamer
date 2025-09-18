@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey there 👋
+I am a Computer Science Student, Currently Residing in Bangladesh. Exploring The Awesome World of Computers.
 <!--
 **livinwamer/livinwamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
