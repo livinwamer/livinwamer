@@ -28,7 +28,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=livinwamer&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livinwamer&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
